@@ -1,6 +1,8 @@
 ### Olá Eu sou o Gabriel Moya👋
 
 - 🔭 Estou desempregado atualmente, mas trabalhei com sucesso do Cliente e front-end
+- 🏅Formado em Análise e Desenvolvimento de Sistemas
+- 📖 Cursando Engenharia de Software
 - 🌱 Estudando Vue.js
 - 👯 Desejo colaborar em tudo o que for útil, tanto no meu quanto no seu conhecimento
 - 📫 Contate-me no e-mail: gabrielmoya201415@gmail.com

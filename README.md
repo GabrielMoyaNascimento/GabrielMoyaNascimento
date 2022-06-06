@@ -1,5 +1,5 @@
 ### Olá Eu sou o Gabriel Moya👋
-
+- Trabalho atualmente na NextAge
 - 🏅Formado em Análise e Desenvolvimento de Sistemas
 - 📖 Cursando Engenharia de Software
 - 🌱 Estudando Vue.js/ Laravel / PHP / Flutter / Java

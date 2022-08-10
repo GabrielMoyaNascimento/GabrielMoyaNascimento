@@ -5,7 +5,6 @@
 - 🌱 Estudando Vue.js/ Laravel / PHP / Flutter / Java
 - 👯 Desejo colaborar em tudo o que for útil, tanto no meu quanto no seu conhecimento
 - 📫 Contate-me no e-mail: gabrielmoya201415@gmail.com
-- ⚡ Fato curioso: Amo energético com sabores exóticos
 
 <div align="center">
   <a href="https://github.com/GabrielMoyaIFPR">

@@ -1,9 +1,9 @@
 ### Olá Eu sou o Gabriel Moya👋
 - Trabalho atualmente na NextAge como Full Stack Developer
-- 🏅Formado em Análise e Desenvolvimento de Sistemas
-- 📖 Cursando Engenharia de Software
-- 🏅 Conhecimentos em Java, Pytho/Django, C#, PHP/Laravel, CSS/HTML/JavaScript
-- 🌱 Estudando Vue.js/ Flutter / Typescript / Angular
+- 🏅Formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software
+- 📖 Cursando 
+- 🏅 Conhecimentos em Java, Pytho/Django, C#, PHP/Laravel, CSS/HTML/JavaScript, Angular
+- 🌱 Estudando React
 - 👯 Desejo colaborar em tudo o que for útil, tanto no meu quanto no seu conhecimento
 - 📫 Contate-me no e-mail: gabrielmoya201415@gmail.com
 
@@ -26,8 +26,6 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" height="30" width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
 </div>
   
   ##

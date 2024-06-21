@@ -1,7 +1,6 @@
 ### Olá Eu sou o Gabriel Moya👋
 - Trabalho atualmente na NextAge como Full Stack Developer
 - 🏅Formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software
-- 📖 Cursando 
 - 🏅 Conhecimentos em Java, Pytho/Django, C#, PHP/Laravel, CSS/HTML/JavaScript, Angular
 - 🌱 Estudando React
 - 👯 Desejo colaborar em tudo o que for útil, tanto no meu quanto no seu conhecimento

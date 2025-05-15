@@ -1,8 +1,7 @@
 ### Olá Eu sou o Gabriel Moya👋
-- Trabalho atualmente como Full Stack Developer
+- Trabalho atualmente como Técnico de Ensino no Senai
 - 🏅Formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software
 - 🏅 Conhecimentos em Java, Pytho/Django, C#, PHP/Laravel, CSS/HTML/JavaScript, Angular
-- 🌱 Estudando React
 - 👯 Desejo colaborar em tudo o que for útil, tanto no meu quanto no seu conhecimento
 - 📫 Contate-me no e-mail: gabrielmoya201415@gmail.com
 
